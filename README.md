@@ -13,26 +13,26 @@ This is a short, simple description of a feature told from the perspective of th
 ## Acceptance Criteria: 
 GIVEN a webpage meets accessibility standards:
 WHEN I view the source code
-THEN I find semantic HTML elements
+THEN I find semantic HTML elements (in progress)
 
 WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+THEN I find that the elements follow a logical structure independent of styling and positioning (in progress)
 
 WHEN I view the image elements
-THEN I find accessible alt attributes
+THEN I find accessible alt attributes (finish-3)
 
 WHEN I view the heading attributes
 THEN they fall in sequential order
 
 WHEN I view the title element
-THEN I find a concise, descriptive title
+THEN I find a concise, descriptive title (done)
 
 GIVEN the scout rule:  
 WHEN I am finished reviewing the code
 THEN it will be cleaner than I found it
 
 GIVEN a fully functioning webpage 
-THEN I find all links are functioning correctly
+THEN I find all links are functioning correctly (Done)
 
 REWORK 
 Rework the CSS to be more efficient by:
