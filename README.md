@@ -35,7 +35,7 @@ This solved the accessibility issue this site had prior to this release
 
 ## Images
 Screenshot of the first build
-![Horiseon Home Page Screenshot](assets\images\Horiseon_Home_Page_Screenshot_Launch.png "Horiseon Home Page Screenshot")
+![Horiseon Home Page Screenshot](https://github.com/kimberlyrobinson11122/challenge_1_seo_website_rework/blob/main/assets/images/Horiseon_Home_Page_Screenshot_Launch.png "Horiseon Home Page Screenshot")
 
 ## Credits
 Instructors: starter code was provided
