@@ -4,7 +4,7 @@
 AS A marketing/creative agency
 I WANT to update this site with accessibility that is up to standard
 SO THAT users can read/understand/use this site no matter who I am in the world and it ensures that people with disabilities can access a website using assistive technologies,
-SO THAT this site is enhanced for search engines accross platforms
+And is enhanced for search engines accross platforms
 
 ## Acceptance Criteria: 
 GIVEN a webpage meets accessibility standards:
@@ -29,3 +29,16 @@ THEN it will be cleaner than I found it
 
 GIVEN a fully functioning webpage 
 THEN I find all links are functioning correctly
+
+## Solved
+This solved the accessibility issue this site had prior to this release
+
+## Images
+Screenshot of the first build
+![Alt text](assets\images\Horiseon_Home_Page_Screenshot_Launch.png "Horiseon Home Page Screenshot")
+
+## Credits
+Instructors: starter code was provided
+
+## Test
+Tested links prior to submission
