@@ -35,7 +35,7 @@ This solved the accessibility issue this site had prior to this release
 
 ## Images
 Screenshot of the first build
-![Alt text](assets\images\Horiseon_Home_Page_Screenshot_Launch.png "Horiseon Home Page Screenshot")
+![Horiseon Home Page Screenshot](assets\images\Horiseon_Home_Page_Screenshot_Launch.png "Horiseon Home Page Screenshot")
 
 ## Credits
 Instructors: starter code was provided
